@@ -14,7 +14,10 @@ Now let's get away from this emotional part and get to the coding and planning p
 
 ## Setup/Plan
 We start of by setting the scene. 
-* Who is the main character? 
+* Who is the main character? -- Bob the robot. 
+* What's the theme of the story? -- Courage. 
+* How long should the story be? -- A story should be between 15-30 min reading time, which should be equivalent to 1500-3000 words (slow reading speed)
+
 
 ___ 
 
