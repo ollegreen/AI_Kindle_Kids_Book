@@ -1,6 +1,6 @@
 # Creating a Kindle Kids Book - Using AI
 
-*Let's write a book suitable for story time, for those tech-geeky parents with kids on their way to be our future data scientists.*
+*Let's write a book suitable for story time, for those tech-geeky parents with kids being our future data scientists.*
 
 ![kiddo](https://images.unsplash.com/photo-1565538420870-da08ff96a207?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80)
 
