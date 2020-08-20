@@ -1,4 +1,4 @@
-# Creating a Kindle Kids Book Using AI
+# Creating a Kindle Kids Book - Using AI
 
 *Let's write a book suitable for story time, for those tech-geeky parents.*
 
@@ -20,7 +20,9 @@ We start of by setting the scene.
 * ```Style```: Repetitive. For example go find different people who are represented by planets. Then they continue to find the next planet and so on, so it's repetitive and comfortable to read to the kids, and make them a bit sleepy. 
 
 
+## What's AIs purpose in this project
 
+In short, it's used for generating text based on a few key facts and utilise data from another story as a framework, to get a new text. 
 
 
 
