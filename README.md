@@ -14,16 +14,16 @@ Now let's get away from this emotional part and get to the coding and planning p
 
 ## Setup/Plan
 We start of by setting the scene. 
-* Who is the main character? -- Bob the robot. 
-* What's the theme of the story? -- Courage. 
-* How long should the story be? -- A story should be between 15-30 min reading time, which should be equivalent to 1500-3000 words (slow reading speed)
-* Keep it repetitive, so for example go find different people who are represented by planets. Then they continue to find the next planet and so on, so it's repetitive and comfortable to read to the kids, and make them a bit sleepy. 
-
-'
-
-___ 
+* ```Main character```: Bob the robot. 
+* ```Theme of the story``` -- Courage. 
+* ```How long should the story be?```: A story should be between 15-30 min reading time, which should be equivalent to 1500-3000 words (slow reading speed)
+* ```Style```: Repetitive. For example go find different people who are represented by planets. Then they continue to find the next planet and so on, so it's repetitive and comfortable to read to the kids, and make them a bit sleepy. 
 
 
-*Let's see how it goes.*
+
+
+
+
+# Let's go.
 
 ![kid](https://images.unsplash.com/photo-1530303388419-840456159b0d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80)
