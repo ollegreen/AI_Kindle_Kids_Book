@@ -29,13 +29,12 @@ We start of by setting the scene.
 I'd like to say that this is more for people interested to have something quick to read to their kid, you'll find more pleasant stories by for example H.C. Andersen. But if you're intrested in AI & Machine Learning, I hope this serve you well and be a fun future talking point with your kid when he, she or them are older. 
 
 Cheers.
- 
- 
+
+
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
- 
- 
-![kid](https://images.unsplash.com/photo-1530303388419-840456159b0d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80)
+<br/>
+<br/>
