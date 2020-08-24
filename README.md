@@ -16,8 +16,8 @@ Now let's get away from this emotional part and get to the coding and planning p
 We start of by setting the scene. 
 * ```Main character```: Bob the robot. 
 * ```Theme of the story```: Courage. 
-* ```How long should the story be?```: A story should be between 15-30 min reading time, which should be equivalent to 1500-3000 words (slow reading speed)
-* ```Style```: Repetitive. For example go find different people who are represented by planets. Then they continue to find the next planet and so on, so it's repetitive and comfortable to read to the kids, and make them a bit sleepy. 
+* ```Lenght```: A story should be between 15-30 min reading time, which should be equivalent to 1500-3000 words (slow reading speed)
+* ```Style```: Repetitive. Comfortable style for getting the kids sleepy and ready for bedtime.
 * ```Topics```: The different characters they get help from to find the young boys parents are planets, with characteristics from their Greek/Roman mythology. So while our kids enjoy this wonderful tail, they learn subconsiously what to associate each planet with in accordance to the astronomy and greek/roman mythology.  
 
 
@@ -36,5 +36,7 @@ I'd like to say that this is more for people interested to have something quick 
 
 Cheers.
 
+## Cover Page 
+![]()
 
 <br/>
