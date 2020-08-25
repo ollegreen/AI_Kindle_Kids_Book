@@ -32,11 +32,11 @@ In short, it's used for generating text based on a few key facts and utilise dat
 I'd like to say that this is more for people interested to have something quick to read to their kid, you'll find more pleasant stories by for example H.C. Andersen. But if you're intrested in AI & Machine Learning, I hope this serve you well and be a fun future talking point with your kid when he, she or them are older. 
 
 # Link to the book
-* 
+* https://www.amazon.com/dp/B08GL2YWGY/ref=sr_1_1?dchild=1&keywords=Bob+The+Robot&qid=1598342649&s=digital-text&sr=1-1
 
 Cheers.
 
 ## Cover Page 
-![]()
+![cover](https://i.imgur.com/odrEJjI.png)
 
 <br/>
