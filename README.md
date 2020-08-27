@@ -35,9 +35,16 @@ I'd like to say that this is more for people interested to have something quick 
 * ```Amazon```: http://bit.ly/kindlebob
 * ```Free PDF Version```: - http://bit.ly/bobrobotpdf
 
+<br/>
+<br/>
+
+Hope you enjoy. 
+
 Cheers.
 
-## Cover Page 
+<br/>
+
+## Cover Page of The Published Book
 ![cover](https://i.imgur.com/odrEJjI.png)
 
 <br/>
